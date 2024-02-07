@@ -1,0 +1,6 @@
+[submodule "demoAngular"]
+	path = demoAngular
+	url = https://github.com/hugospinat/demoAngular
+[submodule "demoSpringBoot"]
+	path = demoSpringBoot
+	url = https://github.com/hugospinat/demoSpringBoot
